@@ -1,0 +1,23 @@
+[34m0.00.067.562[0m [32mI [0mcmn  common_param: common_params_print_info: verbosity = 3 (adjust with the `-lv N` CLI arg)
+[34m0.00.083.293[0m [32mI [0msrv    load_model: loading model 'D:\UE_Games\BioMind\BioMind5\LLM\llm-server\..\llm\Qwen3-4B-Q4_K_M.gguf'
+[34m0.01.012.530[0m [35mW load: control-looking token: 128247 '</s>' was not control-type; this is probably a bug in the model. its type will be overridden
+[0m[34m0.04.576.723[0m [32mI [0msrv    load_model: initializing, n_slots = 1, n_ctx_slot = 4096, kv_unified = 'false'
+[34m0.04.614.376[0m [32mI [0msrv  llama_server: model loaded
+[34m0.04.614.383[0m [32mI [0msrv  llama_server: listening on http://127.0.0.1:8080
+[34m0.14.935.962[0m [32mI [0mslot get_availabl: id  0 | task -1 | selected slot by LRU, t_last = -1
+[34m0.14.936.436[0m [32mI [0mslot launch_slot_: id  0 | task 0 | processing task, is_child = 0
+[34m0.30.300.044[0m [32mI [0mslot print_timing: id  0 | task 0 | n_decoded =    100, tg =   6.66 t/s, tg_3s =   6.66 t/s
+[34m0.33.353.015[0m [32mI [0mslot print_timing: id  0 | task 0 | n_decoded =    117, tg =   6.47 t/s, tg_3s =   5.57 t/s
+[34m0.36.474.790[0m [32mI [0mslot print_timing: id  0 | task 0 | n_decoded =    136, tg =   6.42 t/s, tg_3s =   6.09 t/s
+[34m0.36.934.533[0m [32mI [0mslot print_timing: id  0 | task 0 | prompt eval time =     344.33 ms /     9 tokens (   38.26 ms per token,    26.14 tokens per second)
+[34m0.36.934.545[0m [32mI [0mslot print_timing: id  0 | task 0 |        eval time =   21653.70 ms /   139 tokens (  155.78 ms per token,     6.42 tokens per second)
+[34m0.36.934.548[0m [32mI [0mslot print_timing: id  0 | task 0 |       total time =   21998.03 ms /   148 tokens
+[34m0.36.934.550[0m [32mI [0mslot print_timing: id  0 | task 0 |    graphs reused =        138
+[34m0.36.934.607[0m [32mI [0mslot      release: id  0 | task 0 | stop processing: n_tokens = 147, truncated = 0
+[34m0.46.776.459[0m [32mI [0mslot get_availabl: id  0 | task -1 | selected slot by LCP similarity, sim_best = 0.769 (> 0.100 thold), f_keep = 0.068
+[34m0.46.794.377[0m [32mI [0mslot launch_slot_: id  0 | task 140 | processing task, is_child = 0
+[34m0.48.306.971[0m [32mI [0mslot print_timing: id  0 | task 140 | prompt eval time =     225.57 ms /     3 tokens (   75.19 ms per token,    13.30 tokens per second)
+[34m0.48.306.984[0m [32mI [0mslot print_timing: id  0 | task 140 |        eval time =    1286.95 ms /    10 tokens (  128.70 ms per token,     7.77 tokens per second)
+[34m0.48.306.987[0m [32mI [0mslot print_timing: id  0 | task 140 |       total time =    1512.52 ms /    13 tokens
+[34m0.48.306.989[0m [32mI [0mslot print_timing: id  0 | task 140 |    graphs reused =        146
+[34m0.48.307.020[0m [32mI [0mslot      release: id  0 | task 140 | stop processing: n_tokens = 22, truncated = 0

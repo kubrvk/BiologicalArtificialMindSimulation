@@ -1,0 +1,14 @@
+[
+  {
+    "id": "qwen3-4b",
+    "name": "Qwen 3 — 4B (Q4_K_M)",
+    "file": "Qwen3-4B-Q4_K_M.gguf",
+    "params": "4B",
+    "sizeBytes": 2497280256,
+    "sizeLabel": "2.3 GB",
+    "description": "Hızlı ve verimli. Konuşma ve terapi için ideal.",
+    "contextLength": 8192,
+    "recommended": true,
+    "minRAM_GB": 6
+  }
+]

@@ -1,0 +1,13 @@
+[34m0.00.179.691[0m [32mI [0mcmn  common_param: common_params_print_info: verbosity = 3 (adjust with the `-lv N` CLI arg)
+[34m0.00.196.128[0m [32mI [0msrv    load_model: loading model 'D:\UE_Games\BioMind\BioMind5\LLM\llm-server\..\llm\Qwen3-4B-Q4_K_M.gguf'
+[34m0.01.089.778[0m [35mW load: control-looking token: 128247 '</s>' was not control-type; this is probably a bug in the model. its type will be overridden
+[0m[34m0.04.385.663[0m [32mI [0msrv    load_model: initializing, n_slots = 1, n_ctx_slot = 4096, kv_unified = 'false'
+[34m0.04.409.902[0m [32mI [0msrv  llama_server: model loaded
+[34m0.04.409.914[0m [32mI [0msrv  llama_server: listening on http://127.0.0.1:8080
+[34m0.11.171.327[0m [32mI [0mslot get_availabl: id  0 | task -1 | selected slot by LRU, t_last = -1
+[34m0.11.171.440[0m [32mI [0mslot launch_slot_: id  0 | task 0 | processing task, is_child = 0
+[34m0.17.159.118[0m [32mI [0mslot print_timing: id  0 | task 0 | prompt eval time =     828.66 ms /    13 tokens (   63.74 ms per token,    15.69 tokens per second)
+[34m0.17.159.126[0m [32mI [0mslot print_timing: id  0 | task 0 |        eval time =    5158.95 ms /    12 tokens (  429.91 ms per token,     2.33 tokens per second)
+[34m0.17.159.128[0m [32mI [0mslot print_timing: id  0 | task 0 |       total time =    5987.62 ms /    25 tokens
+[34m0.17.159.129[0m [32mI [0mslot print_timing: id  0 | task 0 |    graphs reused =         11
+[34m0.17.159.161[0m [32mI [0mslot      release: id  0 | task 0 | stop processing: n_tokens = 24, truncated = 0
