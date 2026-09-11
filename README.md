@@ -13,7 +13,7 @@
 
 ---
 
-## 🧠 Overview
+## Overview
 
 **BioMind** is an advanced cognitive and mental-health simulation built in **Unreal Engine 5.7 (C++)**. 
 
@@ -22,29 +22,29 @@ Unlike conventional chatbots or unconstrained roleplay agents, BioMind's charact
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
 │                        BIOMIND TICK PIPELINE                           │
-│ Clock ➔ HPA Axis ➔ Peripheral Axes ➔ Neurotransmitters ➔ Pharmacology  │
-│ ➔ Therapy ➔ Brain Regions ➔ Emotions ➔ Vitals ➔ Mental Health ➔ Memory │
+│ Clock -> HPA Axis -> Peripheral Axes -> Neurotransmitters -> Pharmacy  │
+│ -> Therapy -> Brain Regions -> Emotions -> Vitals -> MH -> Memory      │
 └───────────────────────────────────┬────────────────────────────────────┘
                                     │ Live Biological Telemetry
                                     ▼
                  ┌──────────────────────────────────────┐
                  │          LLM COGNITIVE VOICE         │
-                 │   • Grounded Dialogue Generation     │
-                 │   • Autonomous Real-Time Thoughts    │
-                 │   • Circadian Dreams (Deep Sleep)    │
+                 │   - Grounded Dialogue Generation     │
+                 │   - Autonomous Real-Time Thoughts    │
+                 │   - Circadian Dreams (Deep Sleep)    │
                  └──────────────────────────────────────┘
 ```
 
 ---
 
-## 📸 Screenshots & Systems
+## Screenshots and Systems
 
 <p align="center">
   <img src="Docs/img/2.jpg" width="49%" alt="Radar Charts Vitals and Personality" />
   <img src="Docs/img/3.jpg" width="49%" alt="Brain Regions & Neurotransmitters" />
 </p>
 
-### 🔬 Real-Time Neurobiology & Telemetry
+### Real-Time Neurobiology and Telemetry
 * **11-Stage Tick Pipeline:** Simulates hormone balances (Cortisol, Serotonin, Dopamine, Melatonin, Oxytocin, etc.), neurotransmitter systems (Ach, Serotonin, Dopamine, Norepinephrine, GABA, Glutamate), and vital signs (Heart Rate BPM, Blood Pressure, Respiration, Body Temp).
 * **Brain Region Dynamics:** Real-time activation models for the Default Mode Network (DMN), Prefrontal Cortex (PFC), Amygdala, Hippocampus, Anterior Cingulate Cortex (ACC), Insula, Orbitofrontal Cortex (OFC), and Nucleus Accumbens (NAcc).
 * **Mental Health & Needs:** Tracks depression indices, anxiety, PTSD markers, sleep debt, bladder, hunger/glucose, and hygiene alongside Big Five personality traits.
@@ -56,7 +56,7 @@ Unlike conventional chatbots or unconstrained roleplay agents, BioMind's charact
   <img src="Docs/img/6.jpg" width="49%" alt="Language Model Settings" />
 </p>
 
-### 🤖 LLM & Voice Integration
+### LLM and Voice Integration
 * **Hybrid LLM Engine Support:**
   * **Local llama-server (`llama-server.exe`):** Out-of-the-box local GGUF model execution with Vulkan GPU offloading and CPU fallbacks.
   * **Cloud API Providers:** Built-in modular integration for **Gemini**, **OpenAI**, **Claude**, **DeepSeek**, and **Grok**.
@@ -68,7 +68,7 @@ Unlike conventional chatbots or unconstrained roleplay agents, BioMind's charact
 
 ---
 
-## 🏗️ Architecture & Modules
+## Architecture and Modules
 
 The project is structured into clean, decoupled Unreal Engine modules:
 
@@ -81,7 +81,7 @@ The project is structured into clean, decoupled Unreal Engine modules:
 
 ---
 
-## ⚙️ Interactive Controls & Keybindings
+## Interactive Controls and Keybindings
 
 * **`Tab`** — Open / Close Phone Interface & Tools (Dating, Characters, Memories, Medicine, Stimulus).
 * **`Enter`** — Focus Chat Input for direct conversation with the active character.
@@ -91,7 +91,7 @@ The project is structured into clean, decoupled Unreal Engine modules:
 
 ---
 
-## 🛠️ Requirements & Setup
+## Requirements and Setup
 
 1. **Unreal Engine 5.7+**
 2. **Visual Studio 2022** (MSVC v143 toolchain with C++ desktop and Unreal Engine workloads)
@@ -99,6 +99,6 @@ The project is structured into clean, decoupled Unreal Engine modules:
 
 ---
 
-## 📄 License & Credits
+## License and Credits
 
 Developed by [Kubrick](https://github.com/kubrvk). All rights reserved.
