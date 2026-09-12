@@ -6,7 +6,7 @@
 
 ![](https://img.shields.io/badge/Simulation-327028?style=) ![](https://img.shields.io/badge/Ai-0da083?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.7-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![Status](https://img.shields.io/badge/Status-Early_Development-851d10?style=for-the-badges)
 <br>
-BioMind's characters possess an internal consciousness strictly grounded in an authentic, real-time biological neuro-simulation. LLM never dictates the character's internal biology; instead, it serves as the cognitive voice and narrator that perceives, reflects, and communicates the organism's live physiological and psychological state.
+Real-time biological neuro-simulation. LLM never dictates the character's internal biology; instead, it serves as the cognitive voice and narrator that perceives, reflects, and communicates the organism's live physiological and psychological state.
 <br clear="left"/>
 <p align="center">
 <img src="https://github.com/kubrvk/BiologicalArtificialMindSimulation/raw/main/Docs/img/3.jpg" width="25%"/><img src="https://github.com/kubrvk/BiologicalArtificialMindSimulation/raw/main/Docs/img/1.jpg" width="25%"/><img src="https://github.com/kubrvk/BiologicalArtificialMindSimulation/raw/main/Docs/img/2.jpg" width="25%"/><img src="https://github.com/kubrvk/BiologicalArtificialMindSimulation/raw/main/Docs/img/6.jpg" width="25%"/>
