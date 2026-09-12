@@ -1,12 +1,17 @@
 # BioMind — Biological Artificial Mind Simulation
 
+
+<img align="left" width="30%"  height="160" src="https://github.com/kubrvk/BiologicalArtificialMindSimulation/raw/main/Docs/img/biomindbanner.jpg"/>
+<h3><a href="https://github.com/kubrvk/BiologicalArtificialMindSimulation">12-) BioMind Simulation</a><a href="https://kubrik.itch.io/biomindsimulation"> <img src="https://img.shields.io/badge/itch.io: https://kubrik.itch.io/biomindsimulation-000000?style=flat-square&logo=itch.io&logoColor=white&labelColor=000000" height="25"/> </a></h3>
+
+![](https://img.shields.io/badge/Simulation-327028?style=) ![](https://img.shields.io/badge/Ai-0da083?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.7-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![Status](https://img.shields.io/badge/Status-Early_Development-851d10?style=for-the-badges)
+<br>
+Advanced cognitive and mental-health simulation. BioMind's characters possess an internal consciousness strictly grounded in an authentic, real-time biological neuro-simulation. LLM never dictates the character's internal biology; instead, it serves as the cognitive voice and narrator that perceives, reflects, and communicates the organism's live physiological and psychological state.
+<br clear="left"/>
 <p align="center">
-  <img src="Docs/img/logo.jpg" alt="BioMind Simulation Logo" width="550px" />
+<img src="https://github.com/kubrvk/BiologicalArtificialMindSimulation/raw/main/Docs/img/3.jpg" width="25%"/><img src="https://github.com/kubrvk/BiologicalArtificialMindSimulation/raw/main/Docs/img/1.jpg" width="25%"/><img src="https://github.com/kubrvk/BiologicalArtificialMindSimulation/raw/main/Docs/img/2.jpg" width="25%"/><img src="https://github.com/kubrvk/BiologicalArtificialMindSimulation/raw/main/Docs/img/6.jpg" width="25%"/>
 </p>
 
-<p align="center">
-  <img src="Docs/img/1.jpg" alt="BioMind In-Game Preview" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Unreal_Engine-5.7-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
