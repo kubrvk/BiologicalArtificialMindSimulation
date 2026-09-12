@@ -1,7 +1,7 @@
 # BioMind — Biological Artificial Mind Simulation
 
 <p align="center">
-  <img src="Docs/img/logo.jpg" alt="BioMind Logo" width="260px" style="border-radius: 20px;" />
+  <img src="Docs/img/logo.jpg" alt="BioMind Simulation Logo" width="550px" />
 </p>
 
 <p align="center">
